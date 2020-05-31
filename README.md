@@ -13,5 +13,6 @@ MLSS 2019 intro
 [Part 3](https://youtube.videoken.com/embed/HXpzydhvytE)
 
 ## Papers
+- [Learning Deep Energy Models](https://icml.cc/2011/papers/557_icmlpaper.pdf)
 - [KALE: When Energy-Based Learning Meets Adversarial Training](https://arxiv.org/pdf/2003.05033.pdf)
 - [DISCRIMINATOR REJECTION SAMPLING](https://arxiv.org/abs/1810.06758)
