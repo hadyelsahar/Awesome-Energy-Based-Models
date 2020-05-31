@@ -8,9 +8,9 @@
 ## MCMC 
 
 MLSS 2019 intro
-https://youtube.videoken.com/embed/UzcLe-kpMDQ
-https://youtube.videoken.com/embed/drCwg49Ba_U
-https://youtube.videoken.com/embed/HXpzydhvytE
+[Part 1](https://youtube.videoken.com/embed/UzcLe-kpMDQ)
+[Part 2](https://youtube.videoken.com/embed/drCwg49Ba_U)
+[Part 3](https://youtube.videoken.com/embed/HXpzydhvytE)
 
 ## Papers
 - [KALE: When Energy-Based Learning Meets Adversarial Training](https://arxiv.org/pdf/2003.05033.pdf)
