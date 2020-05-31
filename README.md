@@ -14,4 +14,4 @@ MLSS 2019 intro
 
 ## Papers
 - [KALE: When Energy-Based Learning Meets Adversarial Training](https://arxiv.org/pdf/2003.05033.pdf)
-- 
+- [DISCRIMINATOR REJECTION SAMPLING](https://arxiv.org/abs/1810.06758)
