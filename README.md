@@ -2,11 +2,16 @@
 
 ## Introduction
 - [Tutorial on EBMs](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
-- [Le cun 2019 talk on EBMs](https://youtu.be/A7AnCvYDQrU)
+- [LeCun'19 Energy-Based Self-Supervised Learning @ Workshop IV: Using Physical Insights for Machine Learning](https://youtu.be/A7AnCvYDQrU)
+- [LeCun'19 Energy-based Approaches to Representation Learning](https://youtu.be/m17B-cXcZFI)
 - [IJCAI-17 Energy based ML by Sakyasingha Dasgupta and Takayuki Osogami](https://researcher.watson.ibm.com/researcher/view_group.php?id=7834)
 
-## MCMC 
+## Training Energy based models 
+### sections based on this slide from Yan LeCun
+<img src="https://i.imgur.com/F06heDJ.png" width=500>
 
+
+## MCMC 
 MLSS 2019 intro
 [Part 1](https://youtube.videoken.com/embed/UzcLe-kpMDQ)
 [Part 2](https://youtube.videoken.com/embed/drCwg49Ba_U)
