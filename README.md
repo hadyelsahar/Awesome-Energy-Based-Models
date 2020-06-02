@@ -26,6 +26,12 @@ MLSS 2019 intro
 ### NLP
 - [CGMH: Constrained Sentence Generation by Metropolis-Hastings Sampling AAAI18](https://arxiv.org/pdf/1811.10996.pdf)
 
+#### EBMs and TextGANs
+- [REAL OR FAKE? LEARNING TO DISCRIMINATE MACHINE FROM HUMAN GENERATED TEXT](https://arxiv.org/pdf/1906.03351.pdf)
+- [RESIDUAL ENERGY-BASED MODELS FOR TEXT GENERATION](https://arxiv.org/pdf/2004.11714.pdf)
+- [RESIDUAL EBMS: DOES REAL VS. FAKE TEXT DISCRIMINATION GENERALIZE?](https://openreview.net/pdf?id=SkgpGgrYPH)
+- [Energy-Based Models for Text](https://arxiv.org/pdf/2004.10188.pdf)
+
 ### Images/Videos
 - A Theory of Generative ConvNet. 
 Jianwen Xie *, Yang Lu *, Song-Chun Zhu, Ying Nian Wu (ICML 2016)
