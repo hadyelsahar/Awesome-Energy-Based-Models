@@ -24,3 +24,23 @@ MLSS 2019 intro
 - [A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/pdf/1611.03852.pdf?source=post_page)
 ###NLP
 - [CGMH: Constrained Sentence Generation by Metropolis-Hastings Sampling AAAI18](https://arxiv.org/pdf/1811.10996.pdf)
+
+### Images/Videos
+- A Theory of Generative ConvNet. 
+Jianwen Xie *, Yang Lu *, Song-Chun Zhu, Ying Nian Wu (ICML 2016)
+
+- Synthesizing Dynamic Pattern by Spatial-Temporal Generative ConvNet
+Jianwen Xie, Song-Chun Zhu, Ying Nian Wu (CVPR 2017)
+
+- Learning Energy-based Spatial-Temporal Generative ConvNet for Dynamic Patterns
+Jianwen Xie, Song-Chun Zhu, Ying Nian Wu
+Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2019
+
+- Learning Descriptor Networks for 3D Shape Synthesis and Analysis
+Jianwen Xie *, Zilong Zheng *, Ruiqi Gao, Wenguan Wang, Song-Chun Zhu, Ying Nian Wu (CVPR) 2018 
+
+- Learning generative ConvNets via multigrid modeling and sampling. 
+R Gao*, Y Lu*, J Zhou, Song-Chun Zhu, Ying Nian Wu (CVPR 2018).  
+
+- On learning non-convergent non-persistent short-run MCMC toward energy-based model. 
+E Nijkamp, M Hill, Song-Chun Zhu, Ying Nian Wu (NeurIPS 2019)
