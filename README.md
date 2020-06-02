@@ -22,7 +22,8 @@ MLSS 2019 intro
 - [KALE: When Energy-Based Learning Meets Adversarial Training](https://arxiv.org/pdf/2003.05033.pdf)
 - [DISCRIMINATOR REJECTION SAMPLING](https://arxiv.org/abs/1810.06758)
 - [A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/pdf/1611.03852.pdf?source=post_page)
-###NLP
+
+### NLP
 - [CGMH: Constrained Sentence Generation by Metropolis-Hastings Sampling AAAI18](https://arxiv.org/pdf/1811.10996.pdf)
 
 ### Images/Videos
